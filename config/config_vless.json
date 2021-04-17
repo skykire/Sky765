@@ -13,6 +13,7 @@
         "clients": [
           {
             "id": "V2_ID"
+            "alterID":ALTER_ID
           }
         ]
       },
